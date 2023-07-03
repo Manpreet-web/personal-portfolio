@@ -398,8 +398,8 @@ form input, form textarea{
 .navbar-expand-lg .navbar-collapse {
     display: flex!important;
     flex-basis: auto;
-    WIDTH: 100%;
-    ALIGN-ITEMS: CENTER;
-    JUSTIFY-CONTENT: end;
+    width: 100%;
+    align-items: center;
+    justify-content: end;
 }
 /* Copyright End Here */
