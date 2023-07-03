@@ -395,4 +395,11 @@ form input, form textarea{
     display: block;
 }
 
+.navbar-expand-lg .navbar-collapse {
+    display: flex!important;
+    flex-basis: auto;
+    WIDTH: 100%;
+    ALIGN-ITEMS: CENTER;
+    JUSTIFY-CONTENT: end;
+}
 /* Copyright End Here */
